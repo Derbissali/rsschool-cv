@@ -12,3 +12,11 @@ on a specified port listening for incoming connections, and it can be used in cl
 specified port and transmitting information to the server.**Used goroutines, channels**
 + **Groupie Tracker:** Groupie Trackers consists on receiving a given API and manipulate the data contained in it, in order to create
 a site, displaying the information. **Used Json, Go, Html, Css, Docker**
+## Skills ##
++ Go
++ Js(Basics)
++ HTML 
++ CSS 
++ SQL
++ Docker
++ Git
