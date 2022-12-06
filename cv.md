@@ -20,3 +20,13 @@ a site, displaying the information. **Used Json, Go, Html, Css, Docker**
 + SQL
 + Docker
 + Git
+
+## Education ##
++ Nanjing University of science and technology
++ [Alem School](https://alem.school)
+
+
+## Languages ##
++ **Kazakh**- native speaker
++ **Russian**- native speaker
++ **English**- upper-intermediate
