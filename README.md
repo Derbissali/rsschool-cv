@@ -1,1 +1,1 @@
-# https://Derbissali.github.io/rsschool-cv/cv
+# https://Derbissali.github.io/rsschool-cv/
