@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://Derbissali.github.io/rsschool-cv/
